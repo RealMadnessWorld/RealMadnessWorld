@@ -29,7 +29,7 @@
 
 <div id="stats" align="center">
   <h1 align="center"> Statistics </h1>
-  <img src="https://komarev.com/ghpvc/?username=RealMadnessWorld&style=flat-square&color=green" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=RealMadnessWorld&style=flat-square&color=green" alt="" width="150"/>
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RealMadnessWorld&show_icons=true&theme=merko)
   [![GitHub Streak](https://streak-stats.demolab.com/?user=RealMadnessWorld&theme=dark)](https://git.io/streak-stats)
@@ -51,7 +51,7 @@
 
 
 <h1 align="center">
-  UNDER CONSTRUCTION
+  UNDER WORK
 </h1>
 
 <!-------
