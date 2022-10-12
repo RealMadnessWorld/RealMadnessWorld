@@ -2,39 +2,53 @@
   <img src="https://media.tenor.com/gRUajvfsfpIAAAAi/microsoft-hackathon.gif" width="320"/>
 </div>
 
-<h1 align="center">
-</h1>
+---
 
-<!-----
-<h2 align="center" width="10">
- <img src= "https://media.tenor.com/v5kxkSgy4TMAAAAi/feliz-anivers%C3%A1rio.gif" width="30px"/>
-  Work and studies
- <img src= "https://media.tenor.com/2NwGjpFWL0EAAAAi/%CE%BC%CE%B1%CF%83%CE%BA%CE%B5%CF%82.gif" width="30px"/>
-</h2>
---->
-<p align="center"> I'm a programmer, cyber security enthusiast, art lover and a problem solver!</p>
+<div id="profile" align="center">
+  <img src="https://media.tenor.com/q4L3wKD-P7YAAAAj/hydra-we-bhack.gif" width="150"/>
+  <h3 align="center"> I'm a programmer, cyber security enthusiast, art lover and a problem solver!</h3>
+</div>
 
 <h4>
   About me:
 </h4>
 
-   - 📚 I currently study at [42Lisboa](), almost finishing the common core and I have a bachelors in Theater
+   - 📚 I currently study at 42Lisboa and work at 42Porto as a Lifeguard
+   - 🔭 Currently exploring databases and docker
+   - 🪶 Theater kid
+   - 🎵 Interested in music, magic tricks, short movies
 
-<h2 align="center" width="10">
+---
+
+<div id="stats">
+  <h1 align="center"> Projects </h1>
+  <h3 align="center"> Wall of fame for projects I think are worth mentioning </h3>
+</div>
+
+---
+
+<div id="stats" align="center">
+  <h1 align="center"> Statistics </h1>
+  <img src="https://komarev.com/ghpvc/?username=RealMadnessWorld&style=flat-square&color=red" alt=""/>
+</div>
+
+---
+
+<h1 align="center">
   Contacts
-</h2>
+</h1>
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/jo%C3%A3o-ars%C3%A9nio-a10314236/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </div>
 
+---
+
 
 <h1 align="center">
-  WORK IN PROGRESS
+  UNDER CONSTRUCTION
 </h1>
-
-
 
 <!-------
 - 👀 I’m interested in ...
