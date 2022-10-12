@@ -18,13 +18,14 @@
    - 🪶 Theater kid
    - 🎵 Interested in music, magic tricks, short movies
 
+<!------
 ---
 
 <div id="stats">
   <h1 align="center"> Projects </h1>
   <h3 align="center"> Wall of fame for projects I think are worth mentioning </h3>
 </div>
-
+------->
 ---
 
 <div id="stats" align="center">
@@ -59,6 +60,7 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+----->
 
 <!---
 RealMadnessWorld/RealMadnessWorld is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
