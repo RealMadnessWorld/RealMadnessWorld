@@ -32,10 +32,20 @@
   <h1 align="center"> Statistics </h1>
   <img src="https://komarev.com/ghpvc/?username=RealMadnessWorld&style=flat-square&color=green" alt="" width="150"/>
   
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RealMadnessWorld&show_icons=true&theme=merko)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RealMadnessWorld&show_icons=true&theme=onedark)
   [![GitHub Streak](https://streak-stats.demolab.com/?user=RealMadnessWorld&theme=dark)](https://git.io/streak-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RealMadnessWorld&layout=compact&langs_count=10&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
   
 </div>
+
+---
+
+
+<h1 align="center">
+  🛠️Languages && Tools🛠️
+</h1>
+
+
 
 ---
 
@@ -49,7 +59,6 @@
 </div>
 
 ---
-
 
 <h1 align="center">
   UNDER WORK
