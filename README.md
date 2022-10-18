@@ -6,15 +6,15 @@
 
 <div id="profile" align="center">
   <img src="https://media.tenor.com/q4L3wKD-P7YAAAAj/hydra-we-bhack.gif" width="150"/>
-  <h3 align="center"> I'm a programmer, cyber security enthusiast, art lover and a problem solver!</h3>
+  <h3> I'm a programmer, cyber security enthusiast, art lover and a problem solver!</h3>
 </div>
 
 <h4>
   About me:
 </h4>
 
-   - 📚 I currently study at 42Lisboa and work at 42Porto as a Lifeguard
-   - 🔭 Currently exploring HTML and docker
+   - 📚 I currently study at 42Lisboa
+   - 🔭 Exploring HTML and docker
    - 🪶 Theater kid
    - 🎵 Interested in music, magic tricks, short movies, editing images
 
@@ -58,10 +58,8 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="60" height="60"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" title="C" alt="C" width="60" height="60"/>&nbsp;
   <br/>
-  <img src="https://github.com/RealMadnessWorld/Language-stats/blob/master/generated/languages.svg"/>
+  <img src="https://github.com/RealMadnessWorld/Language-stats/blob/master/generated/languages.svg#gh-dark-mode-only"/>
   
-  ![](https://raw.githubusercontent.com/RealMadnessWorld/github-stats/master/generated/languages.svg)
-
 <!----
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="60" height="60"/>&nbsp;
 ---->
@@ -77,7 +75,14 @@
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/jo%C3%A3o-ars%C3%A9nio-a10314236/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>&nbsp;
+  </a>
+  <a href="mailto: joaoarsenio@live.com.pt">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=black" alt="email Badge"/>&nbsp;
+  </a>
+  <a href="https://profile.intra.42.fr/users/jarsenio">
+    <img src="https://img.shields.io/badge/intra-black?style=for-the-badge&logo=42&logoColor=white" alt="42 Badge"/>&nbsp;
+  </a>
 </div>
 
 ---
