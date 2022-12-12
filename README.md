@@ -34,7 +34,7 @@
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RealMadnessWorld&show_icons=true&theme=chartreuse-dark)
   [![GitHub Streak](https://streak-stats.demolab.com/?user=RealMadnessWorld&theme=chartreuse-dark)](https://git.io/streak-stats)
-  [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=RealMadnessWorld&theme=chartreuse-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  
 <!----
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RealMadnessWorld&layout=compact&langs_count=10&show_icons=true&include_all_commits=true&count_private=true&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
 ----->
