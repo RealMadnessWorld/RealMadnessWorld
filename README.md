@@ -6,17 +6,17 @@
 
 <div id="profile" align="center">
   <img src="https://media.tenor.com/q4L3wKD-P7YAAAAj/hydra-we-bhack.gif" width="150"/>
-  <h3> I'm a programmer, cyber security enthusiast, art lover and a problem solver!</h3>
+  <h3> I'm a programmer, technology enthusiast, art lover and a problem solver!</h3>
 </div>
 
 <h4>
   About me:
 </h4>
 
-   - 📚 I currently study at 42Lisboa
-   - 🔭 Exploring HTML and docker
+   - 📚 I currently study at 42Porto
+   - 🔭 Currently learning typescript
    - 🪶 Theater kid
-   - 🎵 Interested in music, magic tricks, short movies, editing images
+   - 🎵 Interested in music, technology, art and lots of other stuff
 
 <!------
 ---
@@ -33,8 +33,11 @@
   <img src="https://komarev.com/ghpvc/?username=RealMadnessWorld&style=flat-square&color=green" alt="" width="150"/>
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RealMadnessWorld&show_icons=true&theme=chartreuse-dark)
+
+<!---
   [![GitHub Streak](https://streak-stats.demolab.com/?user=RealMadnessWorld&theme=chartreuse-dark)](https://git.io/streak-stats)
-  
+--->
+
 <!----
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RealMadnessWorld&layout=compact&langs_count=10&show_icons=true&include_all_commits=true&count_private=true&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
 ----->
