@@ -29,7 +29,7 @@
 ---
 
 <div id="stats" align="center">
-  <h1 align="center"> Statistics </h1>
+  <h1> Statistics </h1>
   <img src="https://komarev.com/ghpvc/?username=RealMadnessWorld&style=flat-square&color=green" alt="" width="150"/>
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RealMadnessWorld&show_icons=true&theme=chartreuse-dark)
@@ -64,6 +64,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="NGINX" alt="NGINX" width="60" height="60"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript" width="60" height="60"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg" title="NestJS" alt="NestJS" width="60" height="60"/>&nbsp;
+    <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" title="MariaDB" alt="MariaDB" width="60" height="60"/>&nbsp;
   <br/>
  
 <!---
