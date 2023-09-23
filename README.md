@@ -13,10 +13,10 @@
   About me:
 </h4>
 
-   - 📚 I currently study at 42Porto
-   - 🔭 Currently learning typescript
+   - 📚 I just finished 42 (coding school)
+   - 🔭 Currently exploring the world of cybersecurity and AI 
    - 🪶 Theater kid
-   - 🎵 Interested in music, technology, art and lots of other stuff
+   - 🎵 Interested in music, technology, art, psychology, science and lots of other stuff
 
 <!------
 ---
@@ -61,6 +61,9 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="60" height="60"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" title="C" alt="C" width="60" height="60"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" title="Oracle" alt="Oracle" width="60" height="60"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="NGINX" alt="NGINX" width="60" height="60"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript" width="60" height="60"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg" title="NestJS" alt="NestJS" width="60" height="60"/>&nbsp;
   <br/>
  
 <!---
